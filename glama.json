@@ -1,0 +1,14 @@
+{
+  "name": "OECDOracle",
+  "description": "OECD Economic Data \u2014 GDP, unemployment, inflation, interest rates, CLI for 38 countries via MCP",
+  "repository": "https://github.com/ToolOracle/oecdoracle",
+  "endpoint": "https://tooloracle.io/oecd/mcp/",
+  "tools": 13,
+  "license": "MIT",
+  "author": "FeedOracle Technologies",
+  "tags": [
+    "economics",
+    "mcp",
+    "ai-agent"
+  ]
+}
