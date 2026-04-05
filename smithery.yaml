@@ -1,0 +1,5 @@
+name: OECDOracle
+description: OECD economic data — 38 countries — 13 tools
+endpoint: https://tooloracle.io/oecd/mcp/
+transport: streamable-http
+license: MIT
