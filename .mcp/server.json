@@ -1,0 +1,11 @@
+{
+  "schema_version": "v2.0.0",
+  "name": "io.tooloracle/oecdoracle",
+  "description": "OECDOracle \u2014 OECD economic data: GDP, inflation, unemployment for 38 countries. 13 tools.",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://tooloracle.io/oecd/mcp/"
+    }
+  ]
+}
